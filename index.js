@@ -4,5 +4,5 @@ class Util {
   }
 }
 
-
-export default Util
+const daUtil = new Util
+export default daUtil

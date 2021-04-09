@@ -1,0 +1,8 @@
+{
+  "name": "da-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DawnCHL/da-util.git",
+  "author": "DawnCHL <chen_huanlu@163.com>",
+  "license": "MIT"
+}
